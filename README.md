@@ -1,4 +1,4 @@
-# Stay opensource and democratic. E-macron forFrance2017
+# Stay opensource and democratic. vote Macron for 2017 election
               ()
               /\
              |==|
