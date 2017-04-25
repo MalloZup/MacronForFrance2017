@@ -1,7 +1,8 @@
-# Stay opensource and democratic. vote Macron for 2017 election
+# Support Macron for 2017 election, make a brick for France!
 
 ### How to contribute: 
-Feel free to make a democratic commit to the tour Eiffel. 
+Feel free to make a democratic brick! (Even if you are stranger!)  Create your commit to the tour Eiffel. 
+
 
 Even if you are not French but you like French Values, just create a PR with your X for the tour Eiffel. ! :)
 
@@ -27,6 +28,6 @@ Even if you are not French but you like French Values, just create a PR with you
        XXXXXxxxxxxXXXXX
      xXXXXX""""""""XXXXXx
    xXXXXXX"        "XXXXXXx
-xX
+xX # Fixme : add your brick here!
 ```
 Support for E. Macron on 2017 Presidentielle Election.
